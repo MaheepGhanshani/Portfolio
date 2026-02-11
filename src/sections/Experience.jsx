@@ -15,7 +15,7 @@ const experiences = [
 
   
   {
-  role: "Cloud & DevOps Learner",
+  role: "Cyber Security & DevOps Learner",
   company: "Self-Driven",
   duration: "2025 - Present",
   description:
